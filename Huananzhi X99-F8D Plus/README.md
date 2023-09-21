@@ -3,3 +3,4 @@
 
 *v001:*
 * открыт доступ к настройке таймингов (название пункта "Memory Timings & Voltage Override")
+2023 New Bios Original Iwant to upload, but i cant
